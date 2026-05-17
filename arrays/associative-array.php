@@ -10,4 +10,4 @@
     echo "Agora, vamos ver como que funciona. Primeiramente, vamos ao código:<br>";
     echo '<code>$idades["Enzo"]</code><br><br>';
     echo "Na prática, fica assim: <br>";
-    echo $idades['Enzo']. ". Observe que, ao colocar o 'Enzo', o programa já associou ao valor de 15, que é a sua idade.";
+    echo $idades['Enzo']. ".<br>Observe que, ao colocar o 'Enzo', o programa já associou ao valor de 15, que é a sua idade.";
