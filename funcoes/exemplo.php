@@ -1,6 +1,6 @@
 <?php
 
-echo 'Função é uma funcionalidade das linguagens de programação. <br>Ela serve para reduzir o código, para não ficar tão extenso, repetitivo e difícil de se fazer uma manutenção. <br>A seguir, vamos declarar uma função com um parâmetro "nome".<br><br><code>function saudacoes ($nome){<br>echo "Olá, $nome!";<br>}</code>';
+echo 'Função é uma funcionalidade das linguagens de programação. <br>Ela serve para reduzir o código, para não ficar tão extenso, repetitivo e difícil de se fazer uma manutenção. <br>A seguir, vamos declarar uma função com um <a href="parametros-return.php">parâmetro</a> "nome".<br><br><code>function saudacoes ($nome){<br>echo "Olá, $nome!";<br>}</code>';
 
 function saudacoes($nome){
     echo "Olá, $nome!";
