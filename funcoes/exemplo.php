@@ -6,5 +6,5 @@ function saudacoes($nome){
     echo "Olá, $nome!";
 }
 
-echo '<br><br>Após essa declaração, vamos chamar a função e colocar uma string com o valor de "Rafael".<br><code>saudades("Rafael");</code><br><br>Em resumo, função é isso, mas nos aprofundaremos mais a frente.<br><br>';
+echo '<br><br>Após essa declaração, vamos chamar a função e colocar uma string com o valor de "Rafael".<br><code>saudades("Rafael");</code><br><br><strong>Em resumo</strong>, função é isso, mas nos aprofundaremos mais a frente.<br><br>';
 saudacoes("Rafael"); 
